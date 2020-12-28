@@ -11,10 +11,10 @@ const BlogItem = () =>{
                 <div className="row">
                     <div className="left_column">
                     <div class="card_blog">
-          <h2>Who Let The Dog Out?</h2>
-          <h5>Title description, Dec 25, 2020</h5>
-          <img  src="/asset/img/2.jpg" alt="blog" />
-          <p>Pepani amwene. Munthune ndayesetsa koma pic siikuoneka.</p>
+          <h2>Who Let The Dogs Out?</h2>
+          <h5>Dec 25, 2020</h5>
+          <img  src="/asset/img/1.jpg" />
+          <p>Pepani amwene. Munthune ndayesetsa koma pic siikuoneka. Koma apopo panaima galu.</p>
           <p>
           </p>
            </div>

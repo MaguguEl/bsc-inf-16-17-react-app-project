@@ -12,10 +12,10 @@ const Cards = props => {
                     </div>
                     <div class="card_content">
                 <p>
-                    The first thing that come into my mind when I go home is a Photography.
+                    The first thing that comes into my mind when I go home is a Photography.
                     Yes, photography. I like doing photography when I go outdoor at home. You 
-                    know why? Because it where I learn the aspect of life outside home. I believe
-                    one become creative from capturing good moments and some wierd moments because...
+                    know why? Because it where I learn the aspect of life outside home. The focus
+                     and composure  I get from capturing good moments and some weird moments gives me thrill...
                 </p>
             </div>
             <div className="card_bar">
@@ -48,7 +48,7 @@ const Cards = props => {
                     <div class="card_content">
                 <p>
                     I remember when I was old enough to ask what I needed for 
-                    the period of my juvenile. When I get fed up wearing the 
+                    the period of my juvenile. When I get tired of wearing the 
                     same shoes I would intentionally wear my flip-flops to church 
                     under impression that my dad would notice and say, “Oh, it appears 
                     that my child doesn’t have some nice shoes. I got to buy him new ones.” 

@@ -5,11 +5,10 @@ header{
 
 header h1{
     text-align: center;
-    font-size: larger;
-    color: #000;
+    font-size: xx-large;
+    color: #333333;
     margin: 1.5 0px;
 }
-
 
 .left_column{
     float: left;
@@ -27,6 +26,12 @@ header h1{
 .card_blog {
     width: 100%;
 
+}
+.card_blog h2 {
+    color: #333333;
+}
+.card_blog h5{
+    color: #333333;
 }
 .right_column .card_blog{
      padding: 20px;

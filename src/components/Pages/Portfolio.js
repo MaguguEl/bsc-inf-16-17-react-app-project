@@ -6,7 +6,7 @@ const Portfolio = () =>{
     return(
         <div>
             <Navbar />
-            Portfolio Page
+            Grid Photo Gallery
             <Footer />
         </div>
     );
