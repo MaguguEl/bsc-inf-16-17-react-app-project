@@ -1,7 +1,6 @@
 import React from 'react'
 import './Item.css'
 
-
 const BlogItem = () =>{
     return(
         <div>
@@ -14,7 +13,7 @@ const BlogItem = () =>{
           <h2>Who Let The Dogs Out?</h2>
           <h5>Dec 25, 2020</h5>
           <img  src="/asset/img/1.jpg" />
-          <p>Pepani amwene. Munthune ndayesetsa koma pic siikuoneka. Koma apopo panaima galu.</p>
+          <p>Pepani amwene. Munthune ndayesetsa koma pic siikuonekabe. Koma apopo panaima galu.</p>
           <p>
           </p>
            </div>

@@ -15,7 +15,8 @@ header h1{
     width: 60%;
     padding-left: 5px;
 }
-.card_blog{
+.card_blog {
+    width: 100%;
     padding: 20px;
     background: #fff;
     margin-top: 40px;
@@ -23,10 +24,10 @@ header h1{
 
 }
 
-.card_blog {
-    width: 100%;
-
+.card_blog img {
+   
 }
+
 .card_blog h2 {
     color: #333333;
 }
