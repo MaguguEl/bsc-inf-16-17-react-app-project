@@ -148,3 +148,6 @@ You're about to initialize a Firebase project in this directory:
 [debug] [2020-12-28T21:52:44.063Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/gugu-zen/bsc-inf-16-17-react-app-project.git/actions/secrets/public-key type=owner
 [debug] [2020-12-28T21:52:45.934Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/gugu-zen/bsc-inf-16-17-react-app-project.git/actions/secrets/public-key 404
 [debug] [2020-12-28T21:52:45.935Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/gugu-zen/bsc-inf-16-17-react-app-project.git/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[debug] [2020-12-28T21:58:38.457Z] >>> [apiv2][query] GET https://api.github.com/repos/https://github.com/gugu-zen/bsc-inf-16-17-react-app-project.git/actions/secrets/public-key type=owner
+[debug] [2020-12-28T21:58:40.839Z] <<< [apiv2][status] GET https://api.github.com/repos/https://github.com/gugu-zen/bsc-inf-16-17-react-app-project.git/actions/secrets/public-key 404
+[debug] [2020-12-28T21:58:40.840Z] <<< [apiv2][body] GET https://api.github.com/repos/https://github.com/gugu-zen/bsc-inf-16-17-react-app-project.git/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
