@@ -1,0 +1,14 @@
+.footer_bottom {
+    clear: both;
+    background: #000;
+    height: 260%;
+    padding: 5px 10px;
+    text-align: center;
+}
+
+.footer_bottom p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 100%;
+    text-align: center;
+    color: #fff;
+}

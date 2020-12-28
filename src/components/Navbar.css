@@ -1,0 +1,91 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+.menu_bar{
+    background:#043260;
+    height: 100%;
+    width: 100%;
+}
+
+.logo{
+    color:#fff;
+    font-size: x-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    font-weight: bold;
+    line-height: 80px;
+    padding: 0 100px;
+}
+
+.menu_bar ul {
+    float: right;
+    margin-right: 20px;
+
+}
+
+.menu_bar  ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+
+}
+
+.menu_bar ul li:hover {
+    color: #0a2036;
+    transition: 0.5s;    
+}
+
+.checkbtn {
+    font-size: 30px;
+    color: whitesmoke;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+}
+
+#check {
+    display: none;
+}
+
+@media (max-width: 900px) {
+    .logo{
+        font-size: 30px;
+        padding-left: 50px;
+    }
+    .menu_bar ul li{
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 850px){
+    .checkbtn{
+        display: block;
+    }
+    ul{
+        position: fixed;
+        width: 100%;
+        height: 100vh;
+        background: #060a20;
+        top: 80px;
+        left: -100;
+        text-align: center;
+        transition: all .5s;
+    }
+    .menu_bar ul li{
+        display: block;
+    }
+    .menu_bar ul li {
+        font-size: 20px;
+
+    }
+    .menu_bar ul li:hover{
+        background: none;
+        color:#00478f;
+    }
+}
