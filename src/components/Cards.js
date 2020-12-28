@@ -9,6 +9,7 @@ const Cards = props => {
                 <img src="/asset/img/6.jpg" className="card_img" />
                     <div className="card_header">
                     <h3>Photography</h3>
+                    <h5>Dec 25, 2020</h5>
                     </div>
                     <div class="card_content">
                 <p>
@@ -26,6 +27,7 @@ const Cards = props => {
                 <img src="/asset/img/3.jpg" className="card_img" />
                     <div className="card_header">
                     <h3>Dig</h3>
+                    <h5>Dec 25, 2020</h5>
                     </div>
                     <div class="card_content">
                 <p>
@@ -44,6 +46,7 @@ const Cards = props => {
                 <img src="/asset/img/4.jpg" className="card_img" />
                     <div className="card_header">
                     <h3>Childhood Memories</h3>
+                    <h5>Dec 25, 2020</h5>
                     </div>
                     <div class="card_content">
                 <p>
@@ -63,6 +66,7 @@ const Cards = props => {
                 <img src="/asset/img/5.jpg" className="card_img" />
                     <div className="card_header">
                     <h3>Smile</h3>
+                    <h5>Dec 25, 2020</h5>
                     </div>
                     <div class="card_content">
                 <p>
